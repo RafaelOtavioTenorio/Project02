@@ -1,0 +1,16 @@
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Bruno-sanSpamApp.exe
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Bruno-sanSpamApp.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Bruno-sanSpamApp.deps.json
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Bruno-sanSpamApp.runtimeconfig.json
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Bruno-sanSpamApp.pdb
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Appium.Net.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Castle.Core.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\SeleniumExtras.PageObjects.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\Newtonsoft.Json.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\WebDriver.Support.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\WebDriver.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\System.Drawing.Common.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Rafael\Documents\Visual Studio 2022\Releases\AppSpamInterrogação\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
